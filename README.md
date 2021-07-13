@@ -9,6 +9,10 @@ I am a passionate software developer interested in full stack development.
 2. JavaScript
 3. Java
 
+Feel free to reach me via:
+Email: jdeguzman1231@gmail.com
+LinkedIn: https://www.linkedin.com/in/joseph-deguzman/
+
 
 <!--
 **jdeguzman1231/jdeguzman1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
