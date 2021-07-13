@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Joseph Deguzman and I am a recent graduate of Stony Brook University
+
 <!--
 **jdeguzman1231/jdeguzman1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
